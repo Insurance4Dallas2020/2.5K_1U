@@ -90,6 +90,6 @@ var dict = {
     else
         Age = A;
     ans = dict[Age][ind];
-    final = "Here's your quote  $" +  ans;
+    final = "Here's your quote $" +  ans;
     alert(final);
     });
